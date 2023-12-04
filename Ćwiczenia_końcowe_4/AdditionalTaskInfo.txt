@@ -1,0 +1,8 @@
+You are supposed to do those tasks with as many different solutions as possible.
+
+Some "intiguing" solutions with several exists instead of inner join also were presented during class.
+
+I most likely won't do every solution for every task.
+My notaion is:
+	X.Y - solution number Y to task X
+	Xy.Z - solution number Z to y part of task X
